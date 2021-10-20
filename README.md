@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+Hello, I am Kerem Göksu from Izmir. I am currently studying at Buca Science High School.
+
+I am currently working on my own programming language as a school project.
+
+[![kaiserthe13th's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiserthe13th&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserthe13th&hide=html,tex&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kaiserthe13th/kaiserthe13th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
