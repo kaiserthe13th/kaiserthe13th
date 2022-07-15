@@ -2,7 +2,7 @@
 
 Hello, I am Kerem Göksu from Izmir. I am currently studying at Buca Science High School.
 
-🌱 I’m currently learning LLVM (seriously), React (seriously), Svelte (for fun), The Elm Architecture (for fun) and among others...
+🌱 I’m currently learning LLVM (seriously), React (seriously), Svelte (for fun), The Elm Architecture (for fun) among others...
 
 [![kaiserthe13th's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiserthe13th&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserthe13th&hide=html,tex&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
