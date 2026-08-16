@@ -5,7 +5,7 @@ Hello, I am Kerem Göksu from Izmir, Turkey. I am a Dokuz Eylül University stud
 I am interesting in Compilers, Optimisation, DSLs, low level systems such as operating systems, and [games](kaiserthe13th.itch.io).
 
 I have first started programming when I was 7, to make a video game, but couldn't figure it out back then because I couldn't comprehend what the sine function was.
-That was the beginning of a sporadic hobby at first, but then, during COVID, I began seriously considering this hobby as a future job. And now, I am in a Computer Engineering BSc, you can guess the next aim.
+That was the beginning of a sporadic hobby at first, but then, during COVID, I began seriously considering this hobby as a future job. And now, I am in a Computer Engineering BSc and became the technical coordinator of [DEÜ Proje ve Oyun Geliştirme Topluluğu], you can guess the next aim.
 
 [![kaiserthe13th's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiserthe13th&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserthe13th&hide=html,tex&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
