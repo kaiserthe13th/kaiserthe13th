@@ -2,7 +2,7 @@
 
 Hello, I am Kerem Göksu from Izmir, Turkey. I am a Dokuz Eylül University student, currently doing an Erasmus in Albert-Ludwigs-Universität Freiburg on my 2nd year.
 
-I am interesting in Compilers, Optimisation, DSLs, low level systems such as operating systems, and [games](kaiserthe13th.itch.io).
+I am interested in Compilers, Optimisation, DSLs, low level systems such as operating systems, and [games](kaiserthe13th.itch.io).
 
 I have first started programming when I was 7, to make a video game, but couldn't figure it out back then because I couldn't comprehend what the sine function was.
 That was the beginning of a sporadic hobby at first, but then, during COVID, I began seriously considering this hobby as a future job. And now, I am in a Computer Engineering BSc and became the technical coordinator of [DEÜ Proje ve Oyun Geliştirme Topluluğu], you can guess the next aim.
